@@ -1,8 +1,8 @@
-# Portfolio Website
+# Portfolio Website ♻️
 
 This repository contains the source code for my personal portfolio website. The website showcases my skills, projects, and experiences in the field of technology.
 
-## Table of Contents
+## Table of Contents✅
 
 - [Introduction](#introduction)
 - [Features](#features)
@@ -16,7 +16,7 @@ This repository contains the source code for my personal portfolio website. The 
 
 Welcome to my portfolio website! This website serves as a central hub to present my skills, projects, and professional background. Feel free to explore and learn more about my journey in the tech industry.
 
-## Features
+## Features🔰
 
 - **About Me:** Get to know more about me, my background, and my passion for technology.
 - **Skills:** Explore the various technical skills I possess.
@@ -24,15 +24,16 @@ Welcome to my portfolio website! This website serves as a central hub to present
 - **Contact:** Find ways to get in touch with me.vusit my profile for details🥷
 - 
 
-## Technologies Used
+## Technologies Used ⚙️
 
 - **HTML**
 - **CSS**
 - **JavaScript**
 ## Setup
 
-1. Clone the repository: `git clone https://github.com/your-username/portfolio.git`
-2. Open `index.html` in your preferred web browser.
+1. Clone the repository: ```     2.``git clone https://github.com/Shtamim/my-portfolio-website.git ``
+
+3. Open `index.html` in your preferred web browser.
 
 ## Usage
 

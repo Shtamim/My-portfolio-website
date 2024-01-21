@@ -58,7 +58,7 @@ Welcome to the project! Feel free to contribute and make it even better.
 
 ### Code Contributors
 - [Shtamim](https://github.com/Shtamim)
-- [Another Contributor's Username](https://github.com/another-username)
+- [bedimcode-Marlon](https://github.com/bedimcode)
 - I would like to thank him beacuse for his open source code sepecially js and css helped me a lot💖⚓
 
 Happy coding! 🚀

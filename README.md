@@ -31,9 +31,9 @@ Welcome to my portfolio website! This website serves as a central hub to present
 - **JavaScript**
 ## Setup
 
-1. Clone the repository: ```     2.``git clone https://github.com/Shtamim/my-portfolio-website.git ``
+1. Clone the repository:``git clone https://github.com/Shtamim/my-portfolio-website.git ``
 
-3. Open `index.html` in your preferred web browser.
+2. Open `index.html` in your preferred web browser.
 
 ## Usage
 

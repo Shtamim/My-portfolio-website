@@ -50,4 +50,15 @@ This project is licensed under the [MIT License](LICENSE).
 
 Thank you for checking out my portfolio website! If you have any questions or feedback, don't hesitate to reach out.
 
+# Project Name
+
+Welcome to the project! Feel free to contribute and make it even better.
+
+## Contributors
+
+### Code Contributors
+- [Shtamim](https://github.com/Shtamim)
+- [Another Contributor's Username](https://github.com/another-username)
+- I would like to thank him beacuse for his open source code sepecially js and css helped me a lot💖⚓
+
 Happy coding! 🚀

@@ -2,6 +2,9 @@
 
 This repository contains the source code for my personal portfolio website. The website showcases my skills, projects, and experiences in the field of technology.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PORTFOLiO+WEBSITE+;)](https://git.io/typing-svg)
+
+
 ## Table of Contents✅
 
 - [Introduction](#introduction)
